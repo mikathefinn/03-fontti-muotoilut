@@ -1,0 +1,92 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Comic Neue", cursive;
+  background-color: #304f4f;
+
+  color: white;
+}
+
+.box {
+  margin: 2rem;
+  padding: 4rem;
+  background-color: #304f4f;
+  border: 1rem solid white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-block-end: 1rem;
+}
+
+h1 {
+  font-size: 3.6rem;
+  color: #dab489;
+}
+
+h2 {
+  font-size: 3.4rem;
+  color: #2eeb31;
+}
+
+h3 {
+  font-size: 3.2rem;
+}
+
+h4 {
+  font-size: 2.8rem;
+}
+
+h5 {
+  font-size: 2.4rem;
+}
+
+h6 {
+  font-size: 2rem;
+}
+
+.strong {
+  font-weight: bolder;
+  color: #01ffff;
+}
+
+.emphasized {
+  font-style: italic;
+}
+
+.marked {
+  background-color: yellow;
+  color: black;
+}
+
+.small {
+  font-size: 1.2rem;
+  color: red;
+}
+
+.overlined {
+  text-decoration: line-through;
+}
+
+.underlined {
+  text-decoration: underline;
+}
+
+.subscript {
+  vertical-align: sub;
+}
+.superscript {
+  vertical-align: super;
+}
+
+// BLUE #229797
+// YELLOW #FFFF00
+// RED #D3211C
